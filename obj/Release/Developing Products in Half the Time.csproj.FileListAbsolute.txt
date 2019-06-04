@@ -1,0 +1,17 @@
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\bin\Release\Developing Products in Half the Time.exe.config
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\bin\Release\Developing Products in Half the Time.exe
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\bin\Release\Developing Products in Half the Time.pdb
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\Developing Products in Half the Time.csprojAssemblyReference.cache
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\MainWindow.g.cs
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\App.g.cs
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\Developing Products in Half the Time_MarkupCompile.cache
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\Developing Products in Half the Time_MarkupCompile.lref
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\Developing Products in Half the Time.g.resources
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\Developing_Products_in_Half_the_Time.DeploymentChart.resources
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\Developing_Products_in_Half_the_Time.ProjectSchedule.resources
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\Developing_Products_in_Half_the_Time.Properties.Resources.resources
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\Developing Products in Half the Time.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\Developing Products in Half the Time.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\Developing Products in Half the Time.exe
+C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\Developing Products in Half the Time.pdb
