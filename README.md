@@ -7,3 +7,5 @@ For details please click on executable in https://github.com/alpaddesai/NewProdu
 ![Image of NewProductDevelopmentProcess](DevelopingProductsinHalftheTimeMainWindow.png) 
 
 ![Image of NewProductDevelopmentProcess](VisioDiagram.png) 
+
+![Image of NewProductDevelopmentProcess](ProjectSchedule.png)
