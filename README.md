@@ -9,3 +9,6 @@ For details please click on executable in https://github.com/alpaddesai/NewProdu
 ![Image of NewProductDevelopmentProcess](VisioDiagram.png) 
 
 ![Image of NewProductDevelopmentProcess](ProjectSchedule.png)
+
+Company confidential information is not displayed. All images are either custom by Alpa D Desai. Copyright protection in process.
+
