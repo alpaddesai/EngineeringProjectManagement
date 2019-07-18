@@ -1,4 +1,4 @@
-## NewProductDevelopmentProcesses
+## New Product Development Processes
 
 The project displays knowledge awareness of project costs, impacts of delays, revenue implications and various checksteps involved in a new product development process. 
 Confidential information is not displayed. 
