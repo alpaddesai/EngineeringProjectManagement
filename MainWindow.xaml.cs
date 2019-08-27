@@ -170,5 +170,10 @@ namespace Developing_Products_in_Half_the_Time
 
         }
 
+        private void FinancialAnalysis_Click(object sender, RoutedEventArgs e)
+        {
+            FinancialAnalysis FinancialAnalysisObject = new FinancialAnalysis();
+            FinancialAnalysisObject.Show();
+        }
     }
 }

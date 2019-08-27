@@ -64,6 +64,7 @@
         <Label Content="Click for details" Grid.Column="1" HorizontalAlignment="Left" Margin="266,369,0,0" VerticalAlignment="Top"/>
         <Label Content="Click for details" Grid.Column="2" HorizontalAlignment="Left" Margin="19,349,0,0" VerticalAlignment="Top"/>
         <Label Content="Independent of &#xD;&#xA;the schedule the&#xD;&#xA;financials for the&#xD;&#xA;different models&#xD;&#xA;are different" Grid.Column="2" Margin="72,127,20,0" VerticalAlignment="Top" Height="76" RenderTransformOrigin="0.292,0.276" FontSize="10"/>
+        <Button x:Name="FinancialAnalysis" Content="Financial Analysis and Cash Flows" Grid.Column="1" HorizontalAlignment="Left" Margin="250,427,0,0" VerticalAlignment="Top" Width="374" RenderTransformOrigin="-0.2,0.525" Grid.ColumnSpan="2" Height="25" Click="FinancialAnalysis_Click"/>
 
     </Grid>
 </Window>

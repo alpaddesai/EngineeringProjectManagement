@@ -57,6 +57,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="FinancialAnalysis.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -70,6 +74,9 @@
     </Compile>
     <Compile Include="DeploymentChart.Designer.cs">
       <DependentUpon>DeploymentChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinancialAnalysis.xaml.cs">
+      <DependentUpon>FinancialAnalysis.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -126,6 +133,15 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="ProjectOverview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image3.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
