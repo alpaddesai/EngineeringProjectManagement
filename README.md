@@ -9,5 +9,8 @@ https://github.com/alpaddesai/NewProductDevelopmentProcesses/releases  Company c
 
 ![Image of NewProductDevelopmentProcess](ProjectSchedule.png)
 
+![Image](FinancialAnalysisImage.png)
+
+
 
 
