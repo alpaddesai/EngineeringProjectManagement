@@ -11,6 +11,7 @@ https://github.com/alpaddesai/NewProductDevelopmentProcesses/releases  Company c
 
 ![Image](FinancialAnalysisImage.png)
 
+![Image](EarnedValueAnalysis.png)
 
 
 
