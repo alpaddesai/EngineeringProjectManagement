@@ -175,5 +175,11 @@ namespace Developing_Products_in_Half_the_Time
             FinancialAnalysis FinancialAnalysisObject = new FinancialAnalysis();
             FinancialAnalysisObject.Show();
         }
+
+        private void EarnedValueAnalysis_Click(object sender, RoutedEventArgs e)
+        {
+            EarnedValueAnalysis EarnedValueAnalysisObject = new EarnedValueAnalysis();
+            EarnedValueAnalysisObject.Show();
+        }
     }
 }

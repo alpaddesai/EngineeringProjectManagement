@@ -17,10 +17,14 @@ C:\Users\ADG\source\repos\EDUCSYE6200\Developing Products in Half the Time\Devel
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\bin\Debug\Developing Products in Half the Time.exe.config
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\bin\Debug\Developing Products in Half the Time.exe
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\bin\Debug\Developing Products in Half the Time.pdb
+C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\EarnedValueAnalysis.g.cs
+C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\FinancialAnalysis.g.cs
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\MainWindow.g.cs
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\App.g.cs
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\Developing Products in Half the Time_MarkupCompile.cache
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\Developing Products in Half the Time_MarkupCompile.lref
+C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\EarnedValueAnalysis.baml
+C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\FinancialAnalysis.baml
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\MainWindow.baml
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\Developing Products in Half the Time.g.resources
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\Developing_Products_in_Half_the_Time.DeploymentChart.resources
@@ -30,5 +34,3 @@ C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Produc
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\Developing Products in Half the Time.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\Developing Products in Half the Time.exe
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\Developing Products in Half the Time.pdb
-C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\FinancialAnalysis.g.cs
-C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\FinancialAnalysis.baml

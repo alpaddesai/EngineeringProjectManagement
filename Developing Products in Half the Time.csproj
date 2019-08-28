@@ -57,6 +57,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="EarnedValueAnalysis.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="FinancialAnalysis.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -74,6 +78,9 @@
     </Compile>
     <Compile Include="DeploymentChart.Designer.cs">
       <DependentUpon>DeploymentChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EarnedValueAnalysis.xaml.cs">
+      <DependentUpon>EarnedValueAnalysis.xaml</DependentUpon>
     </Compile>
     <Compile Include="FinancialAnalysis.xaml.cs">
       <DependentUpon>FinancialAnalysis.xaml</DependentUpon>

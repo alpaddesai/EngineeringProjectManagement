@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Developing_Products_in_Half_the_Time"
         mc:Ignorable="d"
-        Title="Developing Products in Half the Time" Height="503.2" Width="921" ResizeMode="NoResize">
+        Title="Developing Products in Half the Time" Height="516.7" Width="921" ResizeMode="NoResize">
     <Window.Effect>
         <DropShadowEffect/>
     </Window.Effect>
@@ -51,12 +51,12 @@
         <Label Content=" WaterFall New Product Development Schedule&#xD;&#xA; (please enter # of days from 90 to 180)" Grid.Column="1" HorizontalAlignment="Left" Margin="203,150,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.263,0.269" Height="35" Width="227" FontSize="10"/>
         <TextBox x:Name="Agile_NPD" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="422,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="53" TextChanged="Agile_NPD_TextChanged" Grid.ColumnSpan="2" Text="90" RenderTransformOrigin="1.377,0.609"/>
         <TextBox x:Name="Waterfall_NPD" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="422,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="53" TextChanged="Waterfall_NPD_TextChanged" Grid.ColumnSpan="2" Text="90"/>
-        <Button x:Name="ProjectSchedule" Grid.Column="1" HorizontalAlignment="Left" Margin="233,208,0,0" VerticalAlignment="Top" Width="184" Height="189" Click="ProjectSchedule_Click">
+        <Button x:Name="ProjectSchedule" Grid.Column="1" HorizontalAlignment="Left" Margin="233,199,0,0" VerticalAlignment="Top" Width="184" Height="189" Click="ProjectSchedule_Click">
             <Button.Background>
                 <ImageBrush ImageSource="MSProjectData.jpg"/>
             </Button.Background>
         </Button>
-        <Button x:Name="CashFlows" Grid.Column="1" HorizontalAlignment="Left" Margin="422,208,0,0" VerticalAlignment="Top" Width="204" Height="189" Grid.ColumnSpan="2" Click="CashFlows_Click">
+        <Button x:Name="CashFlows" Grid.Column="1" HorizontalAlignment="Left" Margin="420,202,0,0" VerticalAlignment="Top" Width="204" Height="189" Grid.ColumnSpan="2" Click="CashFlows_Click">
             <Button.Background>
                 <ImageBrush ImageSource="DeploymentChartSmall.png"/>
             </Button.Background>
@@ -64,7 +64,8 @@
         <Label Content="Click for details" Grid.Column="1" HorizontalAlignment="Left" Margin="266,369,0,0" VerticalAlignment="Top"/>
         <Label Content="Click for details" Grid.Column="2" HorizontalAlignment="Left" Margin="19,349,0,0" VerticalAlignment="Top"/>
         <Label Content="Independent of &#xD;&#xA;the schedule the&#xD;&#xA;financials for the&#xD;&#xA;different models&#xD;&#xA;are different" Grid.Column="2" Margin="72,127,20,0" VerticalAlignment="Top" Height="76" RenderTransformOrigin="0.292,0.276" FontSize="10"/>
-        <Button x:Name="FinancialAnalysis" Content="Financial Analysis and Cash Flows" Grid.Column="1" HorizontalAlignment="Left" Margin="250,427,0,0" VerticalAlignment="Top" Width="374" RenderTransformOrigin="-0.2,0.525" Grid.ColumnSpan="2" Height="25" Click="FinancialAnalysis_Click"/>
+        <Button x:Name="FinancialAnalysis" Content="Financial Analysis and Cash Flows" Grid.Column="1" HorizontalAlignment="Left" Margin="244,402,0,0" VerticalAlignment="Top" Width="380" RenderTransformOrigin="-0.2,0.525" Grid.ColumnSpan="2" Height="26" Click="FinancialAnalysis_Click"/>
+        <Button x:Name="EarnedValueAnalysis" Grid.ColumnSpan="2" Content="Earned Value Analysis" Grid.Column="1" HorizontalAlignment="Left" Margin="244,436,0,0" VerticalAlignment="Top" Width="380" Height="28" Click="EarnedValueAnalysis_Click"/>
 
     </Grid>
 </Window>

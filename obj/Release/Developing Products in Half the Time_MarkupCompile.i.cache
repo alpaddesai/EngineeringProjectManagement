@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Debug\
+C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\obj\Release\
 Developing_Products_in_Half_the_Time
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\ADG\source\repos\Developing Products in Half the Time\Developing Products in Half the Time\App.xaml
 31988908521
 
-10414708283
+11-353782768
 151397803362
 EarnedValueAnalysis.xaml;FinancialAnalysis.xaml;MainWindow.xaml;
 
-False
+True
 
