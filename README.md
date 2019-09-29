@@ -13,6 +13,6 @@ https://github.com/alpaddesai/NewProductDevelopmentProcesses/releases  Company c
 
 ![Image](EarnedValueAnalysis.png)
 
-![image](CAPM_certificate_2639035.png)
+![image](CAPMCertificate.jpg)
 
 
