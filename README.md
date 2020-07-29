@@ -7,8 +7,8 @@ https://github.com/alpaddesai/NewProductDevelopmentProcesses/releases  Company c
 
 ![Image of NewProductDevelopmentProcess](VisioDiagram.png) 
 
+### Using MS project
 ![Image of NewProductDevelopmentProcess](ProjectSchedule.png)
-### using MS project
 
 ![Image](FinancialAnalysisImage.png)
 
