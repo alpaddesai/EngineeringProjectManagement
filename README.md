@@ -16,5 +16,7 @@ https://github.com/alpaddesai/NewProductDevelopmentProcesses/releases  Company c
 
 ![image](CAPMCertificate.jpg)
 
+![image](GraduateDegreeEE.png)
+
 Interaction with business development : https://github.com/alpaddesai/TechnicalProductManagement  and https://github.com/alpaddesai/ProductMarketing
 
