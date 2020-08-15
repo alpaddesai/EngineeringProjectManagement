@@ -16,4 +16,5 @@ https://github.com/alpaddesai/NewProductDevelopmentProcesses/releases  Company c
 
 ![image](CAPMCertificate.jpg)
 
-Focused courses: https://github.com/alpaddesai/AnalogDesign , https://github.com/alpaddesai/WirelessandMobileSystems and https://github.com/alpaddesai/ObjectOrientedDesignProgramming
+Further details: https://github.com/alpaddesai/TechnicalProjectManagement and https://github.com/alpaddesai/EconomicDecisionMaking.
+
