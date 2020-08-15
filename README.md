@@ -20,4 +20,4 @@ Projects displaying how interaction with business development is perceived to be
 
 ![image](GraduateDegreeEE.png)
 
-Focused courses: https://github.com/alpaddesai/AnalogDesign  and https://github.com/alpaddesai/WirelessandMobileSystems
+Focused courses: https://github.com/alpaddesai/AnalogDesign , https://github.com/alpaddesai/WirelessandMobileSystems and https://github.com/alpaddesai/ObjectOrientedDesignProgramming
