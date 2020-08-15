@@ -16,7 +16,6 @@ https://github.com/alpaddesai/NewProductDevelopmentProcesses/releases  Company c
 
 ![image](CAPMCertificate.jpg)
 
-Projects displaying how interaction with business development is perceived to be based on my research: https://github.com/alpaddesai/TechnicalProductManagement and https://github.com/alpaddesai/ProductMarketing
 
 ![image](GraduateDegreeEE.png)
 
