@@ -17,6 +17,8 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 
 Further details: https://github.com/alpaddesai/TechnicalProjectManagement and https://github.com/alpaddesai/EconomicDecisionMaking.
 
+### Software Engineering
 Software Engineering Product Development : https://github.com/alpaddesai/SoftwareEngineering
+### Hardware Engineering
 Hardware Engineering Product Development : https://github.com/alpaddesai/HardwareEngineeringLab4-
 
