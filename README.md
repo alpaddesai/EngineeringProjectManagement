@@ -18,3 +18,6 @@ https://github.com/alpaddesai/NewProductDevelopmentProcesses/releases  Company c
 
 Further details: https://github.com/alpaddesai/TechnicalProjectManagement and https://github.com/alpaddesai/EconomicDecisionMaking.
 
+Software Engineering Product Development : https://github.com/alpaddesai/SoftwareEngineering
+Hardware Engineering Product Development : 
+
