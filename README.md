@@ -6,7 +6,7 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 
 ![Image of NewProductDevelopmentProcess](VisioDiagram.png) 
 
-### Using MS project
+### Using Microosoft project
 ![Image of NewProductDevelopmentProcess](ProjectSchedule.png)
 
 ![Image](FinancialAnalysisImage.png)
