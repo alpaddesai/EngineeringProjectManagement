@@ -19,7 +19,7 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 ### CAPM Certificate
 ![image](CAPMCertificate.jpg)
 
-Further details: https://github.com/alpaddesai/TechnicalProjectManagement ,  https://github.com/alpaddesai/EconomicDecisionMaking and https://github.com/alpaddesai/ProgramManagement , https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations
+Further details: https://github.com/alpaddesai/TechnicalProjectManagement ,  https://github.com/alpaddesai/EconomicDecisionMaking , https://github.com/alpaddesai/ProgramManagement , https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations and https://github.com/alpaddesai/QualityAssuranceProcess
 
 ## Engineering Project Manager (EPM)
 
