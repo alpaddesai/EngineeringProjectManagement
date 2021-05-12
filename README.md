@@ -27,3 +27,6 @@ Further details: https://github.com/alpaddesai/TechnicalProjectManagement ,  htt
 Software Engineering Product Development : https://github.com/alpaddesai/SoftwareEngineering
 ### Hardware Engineering
 Hardware Engineering Product Development : https://github.com/alpaddesai/HardwareEngineeringLab4-
+
+## Leadership Skills
+https://github.com/alpaddesai/NewProductDevelopmentProcesses
