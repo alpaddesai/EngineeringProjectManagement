@@ -28,5 +28,8 @@ Software Engineering Product Development : https://github.com/alpaddesai/Softwar
 ### Hardware Engineering
 Hardware Engineering Product Development : https://github.com/alpaddesai/HardwareEngineeringLab4-
 
+## Ethics and Excellence
+![image](EthicsandExcellence.png)
+
 ## Leadership Skills
 https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations
