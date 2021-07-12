@@ -34,5 +34,5 @@ Hardware Engineering Product Development : https://github.com/alpaddesai/Hardwar
 ## Leadership Skills
 https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations
 
-## Certificate of Registration
+### Certificate of Registration
 ![image](USCopyrightCertificate.png)
