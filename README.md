@@ -16,8 +16,7 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 ### Metrics
 ![Image](EarnedValueAnalysis.png)
 
-Further details: https://github.com/alpaddesai/TechnicalProjectManagement ,https://github.com/alpaddesai/GlobalSupplyChainOperationsManagement and https://github.com/alpaddesai/IndustrialRoboticAutomation.
-
+Further details: https://github.com/alpaddesai/TechnicalProjectManagement 
 ## Engineering Project Manager (EPM)
 
 ### Software Engineering
