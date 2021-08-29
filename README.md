@@ -4,9 +4,6 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 
 ![Image of NewProductDevelopmentProcess](DevelopingProductsinHalftheTimeMainWindowOne.png) 
 
-### Impact to free cash flow and entity valuations
-![Image of NewProductDevelopmentProcess](VisioDiagram.png) 
-
 ### Using Microsoft project
 ![Image of NewProductDevelopmentProcess](ProjectSchedule.png)
 
