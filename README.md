@@ -10,9 +10,6 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 ### Using Microsoft project
 ![Image of NewProductDevelopmentProcess](ProjectSchedule.png)
 
-### Financial analysis
-![Image](FinancialAnalysisImage.png)
-
 Further details: https://github.com/alpaddesai/TechnicalProjectManagement 
 ## Engineering Project Manager (EPM)
 
