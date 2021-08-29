@@ -4,9 +4,6 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 
 ![Image of NewProductDevelopmentProcess](DevelopingProductsinHalftheTimeMainWindowOne.png) 
 
-### Using Microsoft project
-![Image of NewProductDevelopmentProcess](ProjectSchedule.png)
-
 Further details: https://github.com/alpaddesai/TechnicalProjectManagement 
 ## Engineering Project Manager (EPM)
 
