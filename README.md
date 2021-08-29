@@ -4,7 +4,8 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 
 ![Image of NewProductDevelopmentProcess](DevelopingProductsinHalftheTimeMainWindowOne.png) 
 
-Further details: https://github.com/alpaddesai/TechnicalProjectManagement 
+Further details: https://github.com/alpaddesai/TechnicalProjectManagement  and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations
+
 ## Engineering Project Manager (EPM)
 
 ### Software Engineering
@@ -14,9 +15,6 @@ Hardware Engineering Product Development : https://github.com/alpaddesai/Hardwar
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
-
-## Leadership Skills
-https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations
 
 ### Certificate of Registration
 ![image](USCopyrightCertificate.png)
