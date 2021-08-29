@@ -13,9 +13,6 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 ### Financial analysis
 ![Image](FinancialAnalysisImage.png)
 
-### Metrics
-![Image](EarnedValueAnalysis.png)
-
 Further details: https://github.com/alpaddesai/TechnicalProjectManagement 
 ## Engineering Project Manager (EPM)
 
