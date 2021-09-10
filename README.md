@@ -18,3 +18,5 @@ Hardware Engineering Product Development : https://github.com/alpaddesai/Hardwar
 
 ### Certificate of Registration
 ![image](USCopyrightCertificate.png)
+
+Additional details reference: https://github.com/alpaddesai/PowerandInfluentialSkills
