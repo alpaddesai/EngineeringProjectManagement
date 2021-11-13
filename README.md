@@ -16,7 +16,4 @@ Hardware Engineering Product Development : https://github.com/alpaddesai/Hardwar
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
-### Certificate of Registration
-![image](USCopyrightCertificate.png)
-
 Additional details reference: https://github.com/alpaddesai/PowerandInfluentialSkills
