@@ -13,6 +13,9 @@ Software Engineering Product Development : https://github.com/alpaddesai/Softwar
 ### Hardware Engineering
 Hardware Engineering Product Development : https://github.com/alpaddesai/HardwareEngineeringLab4-
 
+## Graduate Degree 
+![image](GraduateDegreeEE.png)
+
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
