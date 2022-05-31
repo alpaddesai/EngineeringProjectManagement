@@ -13,7 +13,6 @@ Software Engineering Product Development : https://github.com/alpaddesai/Softwar
 ### Hardware Engineering
 Hardware Engineering Product Development : https://github.com/alpaddesai/HardwareEngineeringLab4-  and https://github.com/alpaddesai/SmartGridDesignIdea
 
-## Graduate admission letter
 ![image](EngineeringMgmt.png)
 
 ## Ethics and Excellence
