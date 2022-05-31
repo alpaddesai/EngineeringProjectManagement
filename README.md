@@ -11,7 +11,7 @@ Details: https://github.com/alpaddesai/TechnicalProjectManagement ,https://githu
 ### Software Engineering
 Software Engineering Product Development : https://github.com/alpaddesai/SoftwareEngineering
 ### Hardware Engineering
-Hardware Engineering Product Development : https://github.com/alpaddesai/HardwareEngineeringLab4-  and https://github.com/alpaddesai/SmartGridDesignIdea
+Hardware Engineering Product Development : https://github.com/alpaddesai/HardwareEngineeringLab4-  
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
