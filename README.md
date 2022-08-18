@@ -15,6 +15,9 @@ Hardware Engineering Product Development : https://github.com/alpaddesai/Hardwar
 ### Systems Engineering
 Systems Design Product Development : https://github.com/alpaddesai/SystemsEngineering 
  
+## CAPM
+![image](CAPMCertificate.jpg)
+
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
