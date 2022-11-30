@@ -11,7 +11,7 @@ Details: https://github.com/alpaddesai/TechnicalProjectManagement , https://gith
 ### Software Engineering
 Software Engineering Product Development : https://github.com/alpaddesai/SoftwareEngineering
 ### Hardware Engineering
-Hardware Engineering Product Development : https://github.com/alpaddesai/HardwareEngineeringLab4- and https://github.com/alpaddesai/ArchitecturalDesign
+Hardware Engineering Product Development : https://github.com/alpaddesai/HardwareEngineeringLab4- and https://github.com/alpaddesai/ArchitecturalDesign2022
 ### Systems Engineering
 Systems Design Product Development : https://github.com/alpaddesai/SystemsEngineering 
  
