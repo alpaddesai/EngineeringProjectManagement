@@ -16,11 +16,12 @@ Hardware Engineering Product Development : https://github.com/alpaddesai/Hardwar
 Systems Design Product Development : https://github.com/alpaddesai/SystemsEngineering 
  
 ![image](CAPMCertificate.jpg)
-![image](USCopyrightCertificate.png)
 
 ## Admission letter
 ![image](MITSDM.png)
 ![image](MSEngMgmt.png)
+
+![image](USCopyrightCertificate.png)
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
