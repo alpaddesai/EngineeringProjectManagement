@@ -4,7 +4,7 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 
 ![Image of NewProductDevelopmentProcess](DevelopingProductsinHalftheTimeMainWindowOne.png) 
 
-Details: https://github.com/alpaddesai/ProgramManagement, https://github.com/alpaddesai/FinanceForEngineers and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations.
+Details: https://github.com/alpaddesai/ProgramManagement, https://github.com/alpaddesai/FinanceForEngineers , https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations.
 
 ## Engineering Project Manager (EPM)
 
@@ -25,5 +25,3 @@ Systems Design Product Development : https://github.com/alpaddesai/SystemsEngine
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
-
-Additional details reference: https://github.com/alpaddesai/PowerandInfluentialSkills
