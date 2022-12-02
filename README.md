@@ -17,7 +17,7 @@ Systems Design Product Development : https://github.com/alpaddesai/SystemsEngine
  
 ![image](CAPMCertificate.jpg)
 
-## Admission letter
+## Application
 ![image](MITSDM.png)
 
 ![image](USCopyrightCertificate.png)
