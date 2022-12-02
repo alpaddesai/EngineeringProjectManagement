@@ -19,7 +19,6 @@ Systems Design Product Development : https://github.com/alpaddesai/SystemsEngine
 
 ## Admission letter
 ![image](MITSDM.png)
-![image](MSEngMgmt1.jpg)
 
 ![image](USCopyrightCertificate.png)
 
