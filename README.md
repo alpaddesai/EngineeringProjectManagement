@@ -4,7 +4,7 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 
 ![Image of NewProductDevelopmentProcess](DevelopingProductsinHalftheTimeMainWindowOne.png) 
 
-Details: https://github.com/alpaddesai/TechnicalProjectManagement , https://github.com/alpaddesai/ProgramManagement, https://github.com/alpaddesai/FinanceForEngineers and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations.
+Details: https://github.com/alpaddesai/TechnicalProjectManagement2022, https://github.com/alpaddesai/ProgramManagement, https://github.com/alpaddesai/FinanceForEngineers and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations.
 
 ## Engineering Project Manager (EPM)
 
