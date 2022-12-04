@@ -4,7 +4,7 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 
 ![Image of NewProductDevelopmentProcess](DevelopingProductsinHalftheTimeMainWindowOne.png) 
 
-Details: https://github.com/alpaddesai/ProgramManagement, https://github.com/alpaddesai/FinanceForEngineers, https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations.
+Details: https://github.com/alpaddesai/ProgramManagement, https://github.com/alpaddesai/FinanceForEngineers, https://github.com/alpaddesai/SystemsEngineering, https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations.
 
 ## Engineering Project Manager (EPM)
 
@@ -12,8 +12,6 @@ Details: https://github.com/alpaddesai/ProgramManagement, https://github.com/alp
 Software Engineering Product Development : https://github.com/alpaddesai/SoftwareEngineering2022
 ### Hardware Engineering
 Hardware Engineering Product Development : https://github.com/alpaddesai/ArchitecturalDesign2022
-### Systems Engineering
-Systems Design Product Development : https://github.com/alpaddesai/SystemsEngineering 
  
 ![image](CAPMCertificate.jpg)
 
