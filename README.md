@@ -14,7 +14,7 @@ Software Engineering Product Development : https://github.com/alpaddesai/Softwar
 ### Hardware Engineering
 Hardware Engineering Product Development : https://github.com/alpaddesai/ArchitecturalProductDesign2022
  
-### Popular vote CAPM Certificate
+### Popular vote: CAPM Certificate
 ![image](CAPMCertificate.jpg)
 
 ## Application
