@@ -17,7 +17,7 @@ Software Engineering Product Development : https://github.com/alpaddesai/Softwar
 Hardware Engineering Product Development : https://github.com/alpaddesai/DesignEngineering2022
  
 #### Popular Vote: Certified Associate Project Manager Certificate
-![image](CAPMCertificate.jpg)
+https://github.com/alpaddesai/ProjectManagementInstituteCertification
 
 ## Application
 ![image](MITSDM.png)
