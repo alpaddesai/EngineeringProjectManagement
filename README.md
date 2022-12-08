@@ -7,7 +7,7 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 ![image](MS_ENGMGMT1.jpg)
 
 ### MS ENG MGT
-Details: https://github.com/alpaddesai/ProgramManagement, https://github.com/alpaddesai/EconomicDecisionMaking, https://github.com/alpaddesai/PowerandInfluentialSkills, https://github.com/alpaddesai/BusinessNegotiations, https://github.com/alpaddesai/ProductDevelopmentProcesses2022, https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations and https://github.com/alpaddesai/GraduateDegrees.
+Details: https://github.com/alpaddesai/ProgramManagement, https://github.com/alpaddesai/EconomicDecisionMaking, https://github.com/alpaddesai/PowerandInfluentialSkills, https://github.com/alpaddesai/BusinessNegotiations, https://github.com/alpaddesai/ProductDevelopmentProcesses2022, https://github.com/alpaddesai/OperationsResearch2022, https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations and https://github.com/alpaddesai/GraduateDegrees.
 
 ## Engineering Project Manager (EPM)
 
