@@ -16,7 +16,7 @@ Software Engineering Product Development : https://github.com/alpaddesai/Softwar
 ### Hardware Engineering
 Hardware Engineering Product Development : https://github.com/alpaddesai/DesignEngineering
  
-#### Popular Vote: https://github.com/alpaddesai/ProjectManagementInstituteCertification
+#### Popular Vote Project: https://github.com/alpaddesai/ProjectManagementInstituteCertification
 
 ## Application
 ![image](MITSDM.png)
