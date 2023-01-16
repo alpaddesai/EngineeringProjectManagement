@@ -18,9 +18,6 @@ Hardware Engineering Product Development : https://github.com/alpaddesai/DesignE
  
 #### Popular Vote Project: https://github.com/alpaddesai/ProjectManagementInstituteCertification
 
-## Application
-![image](MITSDM.png)
-
 ![image](USCopyrightCertificate.png)
 
 ## Ethics and Excellence
