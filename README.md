@@ -7,7 +7,7 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 ![Image of NewProductDevelopmentProcess](DevelopingProductsinHalftheTimeMainWindowOne.png) 
 
 ### MS ENG MGT
-Details: https://github.com/alpaddesai/ProgramManagement, https://github.com/alpaddesai/EconomicDecisionMaking, https://github.com/alpaddesai/BusinessNegotiations, https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations, https://github.com/alpaddesai/ProductDevelopmentProcesses, https://github.com/alpaddesai/OperationsResearch, https://github.com/alpaddesai/ProbabilityStatistics, and https://github.com/alpaddesai/DataVisualizationIS.
+Details: https://github.com/alpaddesai/ProgramManagement, https://github.com/alpaddesai/EconomicDecisionMaking, https://github.com/alpaddesai/BusinessNegotiations,  https://github.com/alpaddesai/ProductDevelopmentProcesses, https://github.com/alpaddesai/OperationsResearch, https://github.com/alpaddesai/ProbabilityStatistics, and https://github.com/alpaddesai/DataVisualizationIS.
 
 ## Engineering Project Manager (EPM)
 
