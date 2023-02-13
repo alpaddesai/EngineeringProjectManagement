@@ -9,8 +9,6 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 ### MS ENG MGT
 Details: https://github.com/alpaddesai/ProgramManagement, https://github.com/alpaddesai/SystemsEngineering, https://github.com/alpaddesai/EconomicDecisionMaking and https://github.com/alpaddesai/BusinessNegotiations
 
-## Engineering Project Manager (EPM)
-
 ### Software Engineering
 Software Engineering Product Development : https://github.com/alpaddesai/SoftwareEngineering
  
