@@ -13,8 +13,6 @@ Details: https://github.com/alpaddesai/ProgramManagement, https://github.com/alp
 
 ### Software Engineering
 Software Engineering Product Development : https://github.com/alpaddesai/SoftwareEngineering
-### Hardware Engineering
-Hardware Engineering Product Development : https://github.com/alpaddesai/DesignEngineering
  
 #### Popular Vote Project: https://github.com/alpaddesai/ProjectManagementInstituteCertification
 
