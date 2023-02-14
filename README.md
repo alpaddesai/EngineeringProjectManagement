@@ -7,7 +7,7 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 ![Image of NewProductDevelopmentProcess](DevelopingProductsinHalftheTimeMainWindowOne.png) 
 
 ### MS ENG MGT
-Details: https://github.com/alpaddesai/ProgramManagement, https://github.com/alpaddesai/SystemsEngineering, https://github.com/alpaddesai/EconomicDecisionMaking and https://github.com/alpaddesai/BusinessNegotiations
+Details: https://github.com/alpaddesai/EconomicDecisionMaking and https://github.com/alpaddesai/BusinessNegotiations
 
 ### Software Engineering
 Software Engineering Product Development : https://github.com/alpaddesai/SoftwareEngineering
