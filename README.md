@@ -8,7 +8,7 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 Details reference https://github.com/alpaddesai/EngineeringProjectManagement/releases
 
 ### MS ENG MGT
-Details: https://github.com/alpaddesai/EconomicDecisionMaking and https://github.com/alpaddesai/BusinessNegotiations
+Details: https://github.com/alpaddesai/EconomicDecisionMaking, https://github.com/alpaddesai/PCBDesignProcess, https://github.com/alpaddesai/BusinessNegotiations
  
 #### Popular Vote Project: https://github.com/alpaddesai/ProjectManagementInstituteCertification
 
