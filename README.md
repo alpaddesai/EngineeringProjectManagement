@@ -6,7 +6,7 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 Details reference https://github.com/alpaddesai/EngineeringProjectManagement/releases
 
 ### MS ENG MGT
-Details: https://github.com/alpaddesai/EconomicDecisionMaking, https://github.com/alpaddesai/PCBDesignProcess, https://github.com/alpaddesai/BusinessNegotiations
+Details: https://github.com/alpaddesai/EconomicDecisionMaking, https://github.com/alpaddesai/PCBDesignProcess, https://github.com/alpaddesai/BusinessNegotiations, https://github.com/alpaddesai/ProgramManagement and https://github.com/alpaddesai/SystemsEngineering.
 
 #### Awards and Recognition
 • Received “Employee Recognition Awards” at Teradyne Inc. April 2010 • Received “Teradyne Employee Core Value Award” at Teradyne Inc. Dec 2006 • Winner of McCallum Graduate School of Business Leadership Scholarship Award 2008–2009 • Received “SWE Outstanding Student award 2004-2005” Society of Women Engineers 
