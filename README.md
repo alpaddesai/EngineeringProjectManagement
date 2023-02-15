@@ -2,8 +2,6 @@
 
 The project displays knowledge awareness of project costs, impacts of delays, revenue implications and various checksteps involved in a new product development process. Company confidential information is not displayed. All images are either custom by Alpa D Desai or reference name is included. 
 
-![image](MSENGMGMT.jpg)
-
 ![Image of NewProductDevelopmentProcess](DevelopingProductsinHalftheTimeMainWindowOne.png) 
 Details reference https://github.com/alpaddesai/EngineeringProjectManagement/releases
 
