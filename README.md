@@ -22,5 +22,3 @@ Details: https://github.com/alpaddesai/EconomicDecisionMaking, https://github.co
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
-
-Additional details reference https://github.com/alpaddesai/GraduateDegrees
