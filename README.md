@@ -15,6 +15,7 @@ Details: https://github.com/alpaddesai/EconomicDecisionMaking, https://github.co
 • Received “SWE Outstanding Student award 2004-2005” Society of Women Engineers
 
 #### Paid Employment: https://github.com/alpaddesai/PCBDesignProcess
+#### Sample Revenue Generating Project https://github.com/alpaddesai/NewProductDevelopmentProcesses
 #### Popular Vote Project: https://github.com/alpaddesai/ProjectManagementInstituteCertification
 
 ![image](USCopyrightCertificate.png)
