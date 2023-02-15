@@ -9,9 +9,6 @@ Details reference https://github.com/alpaddesai/EngineeringProjectManagement/rel
 
 ### MS ENG MGT
 Details: https://github.com/alpaddesai/EconomicDecisionMaking and https://github.com/alpaddesai/BusinessNegotiations
-
-### Software Engineering
-Software Engineering Product Development : https://github.com/alpaddesai/SoftwareEngineering
  
 #### Popular Vote Project: https://github.com/alpaddesai/ProjectManagementInstituteCertification
 
