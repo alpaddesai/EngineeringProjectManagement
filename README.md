@@ -11,11 +11,6 @@ Details: https://github.com/alpaddesai/EconomicDecisionMaking, https://github.co
 #### Paid Employment: https://github.com/alpaddesai/NewProductDevelopmentProcesses
 #### Sample Revenue Generating Project: https://github.com/alpaddesai/SimulationPerformance
 #### Popular Vote Project: https://github.com/alpaddesai/ProjectManagementInstituteCertification
-#### Awards and Recognition
-• Received “Employee Recognition Awards” at Teradyne Inc. April 2010 
-• Received “Teradyne Employee Core Value Award” at Teradyne Inc. Dec 2006 
-• Winner of McCallum Graduate School of Business Leadership Scholarship Award 2008–2009 
-• Received “SWE Outstanding Student award 2004-2005” Society of Women Engineers
 
 ![image](USCopyrightCertificate.png)
 
