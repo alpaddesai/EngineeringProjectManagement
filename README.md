@@ -10,7 +10,7 @@ Details: https://github.com/alpaddesai/EconomicDecisionMaking, https://github.co
 
 #### Paid Employment: https://github.com/alpaddesai/NewProductDevelopmentProcesses
 #### Sample Revenue Generating Project: https://github.com/alpaddesai/SimulationPerformance
-#### Popular Vote Project: https://github.com/alpaddesai/ProjectManagementInstituteCertification  
+#### Popular Vote Exam: https://github.com/alpaddesai/ProjectManagementInstituteCertification  
 #### Entrance Test: https://github.com/alpaddesai/GraduateManagementAptitudeTest
 #### Admission Letters: https://github.com/alpaddesai/GraduateEngineeringSchoolAdmissionLetters
 
