@@ -18,5 +18,4 @@ Details: https://github.com/alpaddesai/EconomicDecisionMaking, https://github.co
 
 ![image](USCopyrightCertificate.png)
 
-## Ethics and Excellence
 ![image](EthicsandExcellence.png)
