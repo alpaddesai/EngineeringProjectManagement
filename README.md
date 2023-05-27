@@ -14,6 +14,7 @@ Details: https://github.com/alpaddesai/EconomicDecisionMaking, https://github.co
 #### Popular Vote Exam: https://github.com/alpaddesai/ProjectManagementInstituteCertification  
 #### Entrance Test: https://github.com/alpaddesai/GraduateManagementAptitudeTest
 #### Admission Letters: https://github.com/alpaddesai/GraduateEngineeringSchoolAdmissionLetters
+#### Cover Letters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/CoverLetters
 
 ![image](USCopyrightCertificate.png)
 
