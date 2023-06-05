@@ -15,7 +15,7 @@ Details: https://github.com/alpaddesai/EconomicDecisionMaking, https://github.co
 #### Entrance Test: https://github.com/alpaddesai/GraduateManagementAptitudeTest
 #### Admission Letters: https://github.com/alpaddesai/GraduateEngineeringSchoolAdmissionLetters
 #### CoverLetters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/EngMgmt_CoverLetters
-#### Learning with certifications https://github.com/alpaddesai/UdemyCertificationsEngMgmt
+#### Learning with Certifications https://github.com/alpaddesai/UdemyCertificationsEngMgmt
 
 ![image](USCopyrightCertificate.png)
 
