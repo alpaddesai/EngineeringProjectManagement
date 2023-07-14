@@ -8,9 +8,9 @@ Details reference https://github.com/alpaddesai/EngineeringProjectManagement/rel
 ### MS ENG MGT
 Details: https://github.com/alpaddesai/EconomicDecisionMaking, https://github.com/alpaddesai/SimulationPerformance, https://github.com/alpaddesai/OperationsResearch, https://github.com/alpaddesai/ProbabilityStatistics, https://github.com/alpaddesai/EPM, https://github.com/alpaddesai/CustomerSupport, https://github.com/alpaddesai/GoogleProjectManagement, https://github.com/alpaddesai/AgileProjectManagement and https://github.com/alpaddesai/SoftwareProductDevelopmentLifecycle.
 
-#### Paid Employment: https://github.com/alpaddesai/NewProductDevelopmentProcesses
+#### Paid Employment: https://github.com/alpaddesai/NewProductDevelopmentProcesses and https://github.com/alpaddesai/BusinessNegotiations
 #### Sample Revenue Generating Project: https://github.com/alpaddesai/SimulationPerformance
-#### Popular Vote Project: https://github.com/alpaddesai/BusinessNegotiations
+#### Popular Vote Project: https://github.com/alpaddesai/EPM
 #### Popular Vote Exam: https://github.com/alpaddesai/ProjectManagementInstituteCertification  
 #### Entrance Test: https://github.com/alpaddesai/GraduateManagementAptitudeTest
 #### Admission Letters: https://github.com/alpaddesai/GraduateEngineeringSchoolAdmissionLetters
