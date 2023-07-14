@@ -5,7 +5,7 @@ The project displays knowledge awareness of project costs, impacts of delays, re
 ![Image of NewProductDevelopmentProcess](DevelopingProductsinHalftheTimeMainWindowOne.png) 
 Details reference https://github.com/alpaddesai/EngineeringProjectManagement/releases
 
-### MS ENG MGT
+### MS ENGINEERING MANAGEMENT
 Details: https://github.com/alpaddesai/EconomicDecisionMaking, https://github.com/alpaddesai/SimulationPerformance, https://github.com/alpaddesai/OperationsResearch, https://github.com/alpaddesai/ProbabilityStatistics, https://github.com/alpaddesai/EPM, https://github.com/alpaddesai/CustomerSupport, https://github.com/alpaddesai/GoogleProjectManagement, https://github.com/alpaddesai/AgileProjectManagement and https://github.com/alpaddesai/SoftwareProductDevelopmentLifecycle.
 
 #### Paid Employment: https://github.com/alpaddesai/NewProductDevelopmentProcesses and https://github.com/alpaddesai/BusinessNegotiations
