@@ -8,7 +8,7 @@ Details reference https://github.com/alpaddesai/EngineeringProjectManagement/rel
 ### MS ENGINEERING MANAGEMENT
 Details: https://github.com/alpaddesai/EconomicDecisionMaking, https://github.com/alpaddesai/SimulationPerformance, https://github.com/alpaddesai/OperationsResearch, https://github.com/alpaddesai/ProbabilityStatistics, https://github.com/alpaddesai/EPM, https://github.com/alpaddesai/CustomerSupport, https://github.com/alpaddesai/SpecialTopicsPowerDistributionNetworks,  https://github.com/alpaddesai/BusinessNegotiations, https://github.com/alpaddesai/GoogleProjectManagement, https://github.com/alpaddesai/BusinessAnalysis, https://github.com/alpaddesai/AgileProjectManagement, https://github.com/alpaddesai/CodingCombinatorialOptimization, https://github.com/alpaddesai/NewProductDevelopmentProcesses and https://github.com/alpaddesai/SoftwareProductDevelopmentLifecycle.
 
-#### Paid Employment: https://github.com/alpaddesai/NewProductDevelopmentProcesses and https://github.com/alpaddesai/BusinessNegotiations
+#### Paid Employment: https://github.com/alpaddesai/NewProductDevelopmentProcesses
 #### Sample Revenue Generating Project: https://github.com/alpaddesai/SimulationPerformance
 #### Popular Vote Project: https://github.com/alpaddesai/EPM
 #### Popular Vote Exam: https://github.com/alpaddesai/ProjectManagementInstituteCertification  
